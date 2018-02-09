@@ -22,6 +22,7 @@ spellor.correction("spelaing"); // returns spelling
 ## How to include this library in your projects
 - Go to the project folder and run `mvn install`
 - Use in your project like this:
+
 ```xml
 <dependency>
     <groupId>com.manparvesh.spellor</groupId>
