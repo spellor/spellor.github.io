@@ -20,7 +20,7 @@ spellor.correction("spelaing"); // returns spelling
 ```
 
 ## How to include this library in your projects
-- Go to the project folder and run `mvn install`
+- Go to the [project folder](https://github.com/spellor/spellor) and run `mvn install`
 - Use in your project like this:
 
 ```xml
